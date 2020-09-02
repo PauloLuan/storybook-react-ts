@@ -13,6 +13,18 @@
   <a href="https://storybook.js.org/docs/guides/guide-react/"><img src="https://img.shields.io/badge/Storybook-5.x-blueviolet?style=for-the-badge"></a>
 </p>
 
+## 💡 Next steps and Challenges!
+
+Required Steps:
+
+1. [Storybook MasterClass](https://www.youtube.com/watch?v=j0MCdrqN8nU)
+1. [Discord UI](https://www.youtube.com/watch?v=x4FdZd2-_uU&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=3&t=0s)
+1. [Linkedin UI](https://www.youtube.com/watch?v=-ZV-_7vNRGw&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=8&t=0s)
+
+If you have time and are very excited:
+
+1. [More UI Clones](https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp)
+
 ## 💡 Introduction
 
 ### React + Storybook + TypeScript
